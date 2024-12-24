@@ -30,5 +30,4 @@ The two greatest weapons of humanity are creativity and the ability to convey co
 
 I've learned a little bit of C and C++, I also tried some Python, Html and CSS. But I'm surelly a newbe.
 
-Sacrificing a little time for learning is worth a lot, and as the Grandmaster of chess Mikhail Tal says: "There are two kinds of sacrifices: good ones and mine." https://upload.wikimedia.org/wikipedia/commons/b/bf/Mikhail_Tal_1982.jpg
-
+Sacrificing a little time for learning is worth a lot, and as the Grandmaster of chess Mikhail Tal says: "There are two kinds of sacrifices: good ones and mine.

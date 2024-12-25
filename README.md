@@ -5,10 +5,6 @@
 <h2>👋 Hi, thank you very much for taking the time to read my profile...</h2>
 
 <h3>About me:</h3>
-<p>
-  <img align="right" src="https://c.tenor.com/t6NfaoQun38AAAAd/tenor.gif" width="300">
-</p>
-
 <p1>You can call me Radulfr, my pseudonym here on Github and also in many other corners of the internet :wolf:
 
 I currently work at a fairly renowned hospital, but I am a big technology enthusiast! Because of my enthusiasm, I am dedicating myself to learning different technologies, and who knows, maybe I will get a career in development and cybersecurity.

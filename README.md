@@ -6,7 +6,7 @@
 
 <h3>About me:</h3>
 <p>
-  <img align="right" width="250px" src="https://c.tenor.com/t6NfaoQun38AAAAd/tenor.gif" width="350">
+  <img align="right" src="https://c.tenor.com/t6NfaoQun38AAAAd/tenor.gif" width="300">
 </p>
 
 <p1>You can call me Radulfr, my pseudonym here on Github and also in many other corners of the internet :wolf:

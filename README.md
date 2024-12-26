@@ -20,16 +20,19 @@ Sacrificing a little time for learning is worth a lot, and as the Grandmaster of
 <h3>My Statistics:</h3>
 
 ##
-<p align="center">
-<a href="https://github.com/Radulfr-Stark">
-  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=Radulfr-Stark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&show_icons=true&theme=codeSTACKr"/>
-  <br>
-  
-  <img height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Radulfr-Stark&custom_title=Radulr Stark's %Month %20Contribution %20Graph&hide_border=true&title_color=ff652f&theme=elegant"/>
- 
-  <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=4&theme=codeSTACKr"/>
+
+<a href="https://github.com/Radulfr-Stark/github-readme-stats" style="display: block; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Radulfr-Stark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&show_icons=true&theme=codeSTACKr" />
 </a>
-</p>
+<br>
+<a href="https://github.com/Radulfr-Stark/convoychat" style="display: block; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=4&theme=codeSTACKr" />
+</a>
+<br>
+<a href="https://github.com/Radulfr-Stark/convoychat" style="display: block; text-align: center;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radulfr-Stark&theme=react-dark" />
+</a>
+
 
 <h3>My Arsenal / Tool set:</h3>
 

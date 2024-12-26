@@ -35,7 +35,7 @@ Sacrificing a little time for learning is worth a lot, and as the Grandmaster of
 <br>
 <div align="center">
   <a href="https://github.com/Radulfr-Stark/convoychat">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radulfr-Stark&theme=react-dark" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radulfr-Stark&custom_title=Radulr Stark's %Month %20Contribution %20Graph&hide_border=true&title_color=ff652f&theme=elegant"/>
   </a>
 </div>
 

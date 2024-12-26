@@ -21,26 +21,34 @@ Sacrificing a little time for learning is worth a lot, and as the Grandmaster of
 
 ##
 
-<a href="https://github.com/Radulfr-Stark/github-readme-stats" style="display: block; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radulfr-Stark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&show_icons=true&theme=codeSTACKr" />
-</a>
+<div align="center">
+  <a href="https://github.com/Radulfr-Stark/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Radulfr-Stark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&show_icons=true&theme=codeSTACKr" />
+  </a>
+</div>
 <br>
-<a href="https://github.com/Radulfr-Stark/convoychat" style="display: block; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=4&theme=codeSTACKr" />
-</a>
+<div align="center">
+  <a href="https://github.com/Radulfr-Stark/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=4&theme=codeSTACKr" />
+  </a>
+</div>
 <br>
-<a href="https://github.com/Radulfr-Stark/convoychat" style="display: block; text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radulfr-Stark&theme=react-dark" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/Radulfr-Stark/convoychat">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radulfr-Stark&theme=react-dark" />
+  </a>
+</div>
 
 <h3>My Arsenal / Tool set:</h3>
 
 ##
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<div align="center">
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" /></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB" /></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" /></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" /></code>
+</div>
+
 
 <h3>How to find me:</h3>
 

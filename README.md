@@ -51,29 +51,13 @@
 
   <p>Although I am not very adept at social networks, I use some to keep myself informed or to exchange information more easily. If you want, you can find me online on the profiles below:</p>
 
-  <div style="text-align: center;">
-    <!-- Primeira linha de itens -->
-    <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-      <div style="text-align: center;">
-        <a href="https://x.com/Radulfr_Stark">
-          <img loading="lazy" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="100"><br>
-          <sub>X / Old Twitter:<br>@Radulfr_Stark</sub>
-        </a>
-      </div>
-      <div style="text-align: center;">
-        <a href="https://www.instagram.com/radulfr_stark/">
-          <img loading="lazy" src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1515764255735341&version=1723113684" width="100"><br>
-          <sub>Instagram:<br>@radulfr_stark</sub>
-        </a>
-      </div>
-      <div style="text-align: center;">
-        <a href="https://discord.com/">
-          <img loading="lazy" src="https://imgs.search.brave.com/hxTywgkdUWgWyhYOwA69WZDr7i3b9MoGOzTO1GtSLgI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vNWIyNGU0/OWZkODkyODdmZjFl/YjViYmM0Y2Y5M2Ni/MDM4YzMzODRlZi01/MTJ4NTEyLnBuZz93/PTE5MjAmcT03MiZm/bT13ZWJw" width="100"><br>
-          <sub>Discord:<br>@radulfr_stark</sub>
-        </a>
-      </div>
-    </div>
-  </div>
+<div align="center">
+
+| [<img loading="lazy" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="100"><br><sub>X / Old Twitter:<br>@Radulfr_Stark</sub>](https://x.com/Radulfr_Stark) | [<img loading="lazy" src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1515764255735341&version=1723113684" width="100"><br><sub>Instagram:<br>@radulfr_stark</sub>](https://www.instagram.com/radulfr_stark/) | [<img loading="lazy" src="https://imgs.search.brave.com/hxTywgkdUWgWyhYOwA69WZDr7i3b9MoGOzTO1GtSLgI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vNWIyNGU0/OWZkODkyODdmZjFl/YjViYmM0Y2Y5M2Ni/MDM4YzMzODRlZi01/MTJ4NTEyLnBuZz93/PTE5MjAmcT03MiZm/bT13ZWJw" width="100"><br><sub>Discord:<br>@radulfr_stark</sub>](https://discord.com/) |
+| :---: | :---: | :---: |
+
+</div>
+
 
 ##
   <h3 align="center">Let's do some code</h3>

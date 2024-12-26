@@ -54,9 +54,9 @@ Sacrificing a little time for learning is worth a lot, and as the Grandmaster of
 | :---: |
 <br>
 
-<p1 aligh="center">You can also find me here:</p1>
+<p1 align="center">You can also find me here:</p1>
 
-<div align="center">
+<div> 
 
  | <img loading="lazy" src="https://imgs.search.brave.com/hxTywgkdUWgWyhYOwA69WZDr7i3b9MoGOzTO1GtSLgI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vNWIyNGU0/OWZkODkyODdmZjFl/YjViYmM0Y2Y5M2Ni/MDM4YzMzODRlZi01/MTJ4NTEyLnBuZz93/PTE5MjAmcT03MiZm/bT13ZWJw" width=115> <br><sub>Discord:<br>radulfr_stark | 
  | :---: |
@@ -73,6 +73,6 @@ Sacrificing a little time for learning is worth a lot, and as the Grandmaster of
 <h3 align="center">Let's do some code</h3>
 
 ##
-<p align="center">
+<div align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+</div>

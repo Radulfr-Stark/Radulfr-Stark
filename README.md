@@ -22,8 +22,8 @@ Sacrificing a little time for learning is worth a lot, and as the Grandmaster of
 ##
 <p align="center">
 <a href="https://github.com/Radulfr-Stark">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Radulfr-Stark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radulfr-Stark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&show_icons=true&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=4&theme=codeSTACKr"/>
 </a>
 </p>
 

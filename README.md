@@ -26,7 +26,7 @@
   <br>
   <div align="center">
     <a href="https://github.com/Radulfr-Stark/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=4&theme=codeSTACKr" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=2&theme=codeSTACKr" />
     </a>
   </div>
   <br>

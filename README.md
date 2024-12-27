@@ -19,19 +19,19 @@
   <h3>My Statistics:</h3>
 
   <div align="center">
-    <a href="https://github.com/Radulfr-Stark/github-readme-stats">
+    <a href="https://github.com/Radulfr-Stark/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Radulfr-Stark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&show_icons=true&theme=codeSTACKr)">
       <img src="https://github-readme-stats.vercel.app/api?username=Radulfr-Stark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&show_icons=true&theme=codeSTACKr" />
     </a>
   </div>
   <br>
   <div align="center">
-    <a href="https://github.com/Radulfr-Stark/convoychat">
+    <a href="https://github.com/Radulfr-Stark/convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=2&theme=codeSTACKr)">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radulfr-Stark&layout=compact&langs_count=2&theme=codeSTACKr" />
     </a>
   </div>
   <br>
   <div align="center">
-    <a href="https://github.com/Radulfr-Stark/convoychat">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=Radulfr-Stark&hide_border=true&title_color=ff652f&theme=elegant">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radulfr-Stark&hide_border=true&title_color=ff652f&theme=elegant"/>
     </a>
   </div>

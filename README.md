@@ -1,5 +1,8 @@
 # 👨‍💻 Radulfr-Stark
 
+> *Se você está buscando a versão em português (PT-BR) deste perfil, leia: [README_PT-BR.md](README_PT-BR.md)*  
+> *If you are looking for the Brasilian Portuguese (PT-BR) version of this profile, read: [README_PT-BR.md](README_PT-BR.md)*
+
 ## Thank you for visiting my profile!
 
 You can call me **Raul** or **Radulfr** which is my pseudonym on GitHub and in various corners of the internet.  
@@ -48,7 +51,9 @@ All my Git commits and tags are signed with my personal GPG key to ensure authen
 FB1F A745 55D1 EB5C 80B2 DEDC 2101 B8D8 F05D 0199
 ```
 
-### You can download and save my pubkey [_here_](https://keyserver.ubuntu.com/pks/lookup?search=2101B8D8F05D0199&fingerprint=on&op=index) or get it by command:
+### 📄 You can see my pubkey in [_raw pubkey_](https://raw.githubusercontent.com/Radulfr-Stark/Radulfr-Stark/refs/heads/main/GPG/Radulfr_Stark_0xF05D0199_public.asc).
+
+### To download the pubkey just click [_here_](https://keyserver.ubuntu.com/pks/lookup?search=2101B8D8F05D0199&fingerprint=on&op=index) or get it by command:
 
 `bash:`
 ```
@@ -87,13 +92,13 @@ You can find me by the following plataforms: `Lindedin` `X / Twiiter` and `Insta
 
 <p align="center">
   <a href="https://br.linkedin.com/in/raulzeira" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" style="margin: 10px;" title="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" style="margin: 20px;" title="LinkedIn"/>
   </a>
   <a href="https://x.com/Radulfr_Stark" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="50px" style="margin: 10px;" title="X / Twiiter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="50px" style="margin: 20px;" title="X / Twiiter"/>
    </a>
    <a href="https://www.instagram.com/radulfr_stark/" target="_blank">
-    <img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1515764255735341&version=1723113684" width="50px" style="margin: 10px;" title="Instagram" >
+    <img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1515764255735341&version=1723113684" width="50px" style="margin: 20px;" title="Instagram" >
    </a>
 </p>
 

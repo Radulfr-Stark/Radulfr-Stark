@@ -1,5 +1,8 @@
 # 👨‍💻 Radulfr-Stark
 
+> *If you are looking for the English (EN) version of this profile, read: [README.md](README.md)*.  
+> *Se você está buscando pela versão em Inglês (EN) desse perfil, leia: [README.md](README.md)*.
+
 ## Obrigado por visitar meu perfil!
 
 Você pode me chamar de **Raul** ou **Radulfr**, meu pseudônimo aqui no GitHub e em vários cantos da internet.  
@@ -45,7 +48,9 @@ Todos os meus commits e tags são assinados com minha chave GPG pessoal para gar
 FB1F A745 55D1 EB5C 80B2 DEDC 2101 B8D8 F05D 0199
 ```
 
-### Você pode fazer o download da minha chave pública [_aqui_](https://keyserver.ubuntu.com/pks/lookup?search=2101B8D8F05D0199&fingerprint=on&op=index) ou importar via linha de comando:
+### 📄 Você pode ver a chave pública em [_raw pubkey_](https://raw.githubusercontent.com/Radulfr-Stark/Radulfr-Stark/refs/heads/main/GPG/Radulfr_Stark_0xF05D0199_public.asc).
+
+### Para baixar a chave pública basca clicar [_aqui_](https://keyserver.ubuntu.com/pks/lookup?search=2101B8D8F05D0199&fingerprint=on&op=index) ou obtê-la por linha de comando:
 
 `bash:`
 ```
